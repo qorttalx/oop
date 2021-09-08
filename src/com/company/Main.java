@@ -37,6 +37,8 @@ public class Main {
                 //us[i].setPassword(pas);
 
 
+                System.out.println("Привет мир");
+
                 i++;
             }
             else if (ch == 3){
